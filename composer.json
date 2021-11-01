@@ -1,5 +1,5 @@
 {
-    "name": "mp/ipblock",
+    "name": "moonpie/ipblock",
     "description": "IP黑名单",
     "type": "library",
     "require": {
